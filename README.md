@@ -12,8 +12,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/PancakeBotPrediction/Pancakeswap-Prediction-Bot-2023`` 
-2. ``cd Pancakeswap-Prediction-Bot-2023`` (replace with your cloned/downloaded bot folder)
+1. ``git clone https://github.com/PancakeswapBotDeveloper/PancakeswapPredictionBotAI-2023`` 
+2. ``cd PancakeswapPredictionBotAI-2023`` (replace with your cloned/downloaded bot folder)
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
@@ -79,4 +79,4 @@ We accept no liability for any loss resulting from inaccuracy or incompleteness,
 **Please be aware of clones**
 
  👷**USE IT AT YOUR OOWN RISK.** 
- If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me (`hasonosako@gmail.com`).
+ If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me (`tder8869@gmail.com`).
